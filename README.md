@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a fourth year student at the University of Toronto pursuing a double major in Computer Science and Applied Statistics.
+I'm currently working on personal projects that include my personal website and parallel computing with CUDA.
