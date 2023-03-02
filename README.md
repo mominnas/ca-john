@@ -21,7 +21,7 @@ I'm currently working on personal projects that include my personal website and 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ca-john&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ca-john&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&hide=stars,prs,issues,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca-john&langs_count=3&hide_title=true&hide_border=true" />
