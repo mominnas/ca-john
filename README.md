@@ -24,5 +24,5 @@ I'm currently working on personal projects that include my personal website and 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ca-john&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&hide=stars,prs&count_private=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca-john&langs_count=3&hide_title=true&hide_border=true&count_private=true&theme=gruvbox&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca-john&langs_count=3&hide_title=true&hide_border=true&count_private=true&theme=gruvbox&langs_count=6&exclude_repo=ca-john.github.io" />
 </a>
